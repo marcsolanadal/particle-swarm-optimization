@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/marcsolanadal/particle-swarm-optimization.png?label=ready&title=Ready)](https://waffle.io/marcsolanadal/particle-swarm-optimization)
 # particle-swarm-optimization
 
 FIXME: description

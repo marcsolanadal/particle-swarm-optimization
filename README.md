@@ -1,7 +1,8 @@
-[![Stories in Ready](https://badge.waffle.io/marcsolanadal/particle-swarm-optimization.png?label=ready&title=Ready)](https://waffle.io/marcsolanadal/particle-swarm-optimization)
+
 # particle-swarm-optimization
 
 [![Join the chat at https://gitter.im/marcsolanadal/particle-swarm-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcsolanadal/particle-swarm-optimization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Stories in Ready](https://badge.waffle.io/marcsolanadal/particle-swarm-optimization.png?label=ready&title=Ready)](https://waffle.io/marcsolanadal/particle-swarm-optimization)
 
 FIXME: description
 
